@@ -1,0 +1,5 @@
+A simple Tic Tac Toe implementation using Lift's Comet Actor API. To start the application, simply type
+
+  mvn jetty:run
+
+from the root project directory.
